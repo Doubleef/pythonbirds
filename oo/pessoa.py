@@ -1,4 +1,4 @@
-class Pessoa:
+class Pessoa: ///commit novo
     olhos = 2
     def __init__(self, *filhos, nome=None, idade=48):
         self.idade = idade
